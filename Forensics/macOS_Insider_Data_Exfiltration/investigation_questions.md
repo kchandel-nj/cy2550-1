@@ -7,7 +7,12 @@ All answers must be directly supported by artifacts.
 ---
 ## Filesystem Findings
 1. Which directory contains the sensitive internal files relevant to this investigation?
+	FileSystem\Documents\archive
+	Holds customer data, API keys, and confidential information
+
 2. Which specific files within that directory appear relevant to the investigation?
+	api_keys, customer_data, internal_roadmap
+
 3. What directory appears to have been used to stage files for potential transfer?
 4. What evidence suggests that files were copied or prepared for transfer?
 
